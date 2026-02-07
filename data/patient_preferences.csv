@@ -1,0 +1,11 @@
+PatientId,preferred_time,reminder_type
+7.34536E+14,morning,SMS
+7.54295E+12,evening,Email
+5.66655E+14,afternoon,SMS
+9.11395E+14,morning,SMS
+9.11395E+14,evening,Email
+9.11395E+14,morning,SMS
+9.11395E+14,afternoon,Email
+9.11395E+14,morning,SMS
+9.11395E+14,evening,SMS
+9.11395E+14,morning,Email
